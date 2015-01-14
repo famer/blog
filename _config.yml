@@ -1,7 +1,7 @@
 # Site settings
 permalink: none #/:categories/:title.html
 title: DevBlog
-email: dj.famer@gmail.com
+#email: dj.famer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог обо всем на свете.
 
