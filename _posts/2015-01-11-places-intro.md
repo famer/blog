@@ -2,7 +2,7 @@
 title: Places app documentation
 categories: iOS
 tags: ["Pro Places", iOS]
-published: true
+published: false
 ---
 PDF documentation for [`Pro Places app`][pro-places] [get the PDF]({{ site.baseurl }}/downloads/english-places-docs.pdf) directly.
 
