@@ -22,6 +22,12 @@ defaults:
       layout: "post"
   -
     scope:
+      path: "" 
+      type: "pages"
+    values:
+      hideFromNav: false
+  -
+    scope:
       path: "tags" 
     values:
       #permalink: none
