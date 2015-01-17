@@ -1,5 +1,5 @@
 # Site settings
-permalink: none #/:categories/:title.html
+permalink: :title.html #none #/:categories/:title.html
 title: DevBlog
 #email: dj.famer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"

@@ -3,6 +3,7 @@ title: Archives
 layout: default
 permalink: /archive/
 menuIndex: 1
+hideFromNav: true
 ---
 
 <article>
