@@ -1,4 +1,4 @@
 ---
-permalink: tags/iOS/
 tag: iOS
+permalink: tags/iOS/
 ---

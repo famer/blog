@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article>
-  <h2>Posts tagged <code>{{ page.tag }}</code></h2>
+  <h2>Posts tagged <code>#{{ page.tag | replace:' ','' | downcase }}</code></h2>
   <p>
     <a href="/tags/{{ page.tag }}/feed/">
       <img src="/assets/interface images/feed.png" alt="Atom Feed" class="tag-feed"/>

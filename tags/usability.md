@@ -1,4 +1,4 @@
 ---
-tag: usability
-permalink: tags/usability/
+tag: Usability
+permalink: tags/Usability/
 ---

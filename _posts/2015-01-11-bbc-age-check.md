@@ -2,7 +2,7 @@
 layout: post
 title:  BBC site Age check
 categories: Usability
-tags: usability webdev
+tags: Usability Webdev
 ---
 BBC great your age checking [profile](https://ssl.bbc.co.uk/id/settings)
 

@@ -1,4 +1,4 @@
 ---
-tag: webdev
-permalink: tags/webdev/
+tag: Webdev
+permalink: tags/Webdev/
 ---

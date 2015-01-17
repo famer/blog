@@ -22,7 +22,7 @@ menuIndex: 0
       {% endfor %}
     {% else %}
       {% for tag in tags_list %}
-        <li><a href="#{{ tag[0] }}">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+        <li><a href="#{{ tag[0] }}">#{{ tag[0] | replace:' ','' | downcase }} <span>{{ tag[1].size }}</span></a></li>
       {% endfor %}
     {% endif %}
   {% assign tags_list = nil %}
