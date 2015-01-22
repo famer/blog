@@ -32,3 +32,8 @@ defaults:
     values:
       #permalink: none
       layout: "tag"
+  -
+    scope:
+      path: "ru" 
+    values:
+      category: "ru"

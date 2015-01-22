@@ -6,13 +6,13 @@ description: "An archive of posts sorted by tag."
 menuIndex: 0
 ---
 <div class="posts tag-container">
-  <!--
+<!--
   {% for page in site.pages reversed %}
     {% if page.tag %}
-    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.tag }}</a>
+    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.tag }}</a> {{ site.tags[page.tag].size }}
     {% endif %}
   {% endfor %}
-  -->
+-->
   <h1>Tag Index</h1>
   <ul class="tag-box">
   {% assign tags_list = site.tags %}
