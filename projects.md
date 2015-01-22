@@ -1,0 +1,4 @@
+---
+permalink: /projects/
+---
+projects relink
