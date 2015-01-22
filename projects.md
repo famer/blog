@@ -1,4 +1,5 @@
 ---
+title: /projects/
 permalink: /projects/
 ---
-projects relink
+description: projects relink
