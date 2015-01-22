@@ -12,4 +12,8 @@ tags: Design Чехи Czech
 
 Наконец-то этой загадкой меньше.
 
-image of stunt party booklet or image or hellow 90 word advertisement in th:A
+![czech design, crazy 90th]({{ site.baseurl }}/assets/ru/Design/czech-design-crazy-90s-style.jpg)
+
+_Плакат с тегами и каналами твиттера касательно кампуса университета:_
+![czech design, campus twitter]({{ site.baseurl }}/assets/ru/Design/czech-design-campus-twitter.jpg)
+
