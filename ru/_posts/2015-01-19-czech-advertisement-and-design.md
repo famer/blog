@@ -14,6 +14,6 @@ tags: Design Чехи Czech
 
 ![czech design, crazy 90th]({{ site.baseurl }}/assets/ru/Design/czech-design-crazy-90s-style.jpg)
 
-_Плакат с тегами и каналами твиттера касательно кампуса университета:_
 ![czech design, campus twitter]({{ site.baseurl }}/assets/ru/Design/czech-design-campus-twitter.jpg)
+_плакат с тегами и каналами твиттера касательно кампуса университета_
 
