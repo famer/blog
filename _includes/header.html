@@ -14,6 +14,7 @@
       </a>
 
       <div class="trigger">
+          <a class="page-link" href="/projects/">Projects</a>
         {% assign pages = site.pages | where:"hideFromNav",false | sort:"menuIndex" | reverse %}
         {% for page in pages %}
           {% if page.title %}
