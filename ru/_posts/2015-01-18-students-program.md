@@ -8,6 +8,8 @@ tags: Education University CVUT
 
 Итак, многие компании предоставляют т.н. университетскую лицензию для студентов и преподавателей. В том числе компании довольно большие с дорогим софтом.
 
+![students program software]({{ site.baseurl }}/assets/ru/Education/students_software.png)
+
 Как студент FIT CVUT я могу пользоваться следующими продуктами:
 
 1. Полный пакет Microsoft Office
