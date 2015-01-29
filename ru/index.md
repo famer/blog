@@ -2,6 +2,7 @@
 layout: default
 title: /ru/
 permalink: /ru/
+published: false
 ---
 
 <div class="home">
