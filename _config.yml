@@ -2,8 +2,9 @@
 permalink: :title.html #none #/:categories/:title.html
 title: DevBlog
 #email: dj.famer@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Блог обо всем на свете.
+description: "I am Timur Tatarshaov: web and mobile developer, writer and aestetic." #> # this means to ignore newlines until "baseurl:"
+
+  #Блог обо всем на свете.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://famer.github.io" #"http://devblogblog.com" # the base hostname & protocol for your site
