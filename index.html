@@ -10,10 +10,14 @@ layout: default
     {% assign posts = site.posts | where:"category",!"ru" %}
     {% for post in posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		{% if post.categories contains "guest" %}
+          <a class="post-link" href="{{ post.link }}">{{ post.title }} →</a>
+		{% else %}
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		{% endif %}
         </h2>
 	  {{ post.content }}
     {% include taglist.html %}
