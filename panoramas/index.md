@@ -17,7 +17,7 @@ Here is a list of panoramas taken throughout the life:
 {% for i in (1..page.quanity) %}
 
 <a href="#{{i}}" id="{{i}}">{{ i }}: #link to this pano</a>
-	![panorama {{i}}]({{site.baseurl}}/assets/Panoramas/Caucasus/pano{{i}}.jpg)
+	[![panorama {{i}}]({{site.baseurl}}/assets/Panoramas/Caucasus/pano{{i}}.jpg)]({{site.baseurl}}/assets/Panoramas/Caucasus/pano{{i}}.jpg)
 
 {% endfor %}
 

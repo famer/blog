@@ -9,7 +9,7 @@ description: "I am Timur Tatarshaov: web and mobile developer, writer and aestet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://famer.github.io" #"http://devblogblog.com" # the base hostname & protocol for your site
 twitter_username: famer
-github_username:  famer
+#github_username:  famer
 
 # Build settings
 markdown: kramdown
