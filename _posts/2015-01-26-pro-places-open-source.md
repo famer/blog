@@ -5,7 +5,7 @@ tags: ["Pro Places", iOS]
 published: true
 ---
 
-[![Pro Places App Icon]({{ site.baseurl }}/assets/Apps/Pro Places/Icon_180.png)][pro-places]
+[![Pro Places App Icon]({{ site.baseurl }}/assets/Apps/Pro Places/Icon_180.png){:.rounded}][pro-places]
 
 I've decided to open sources of [Pro Places App][pro-places]. It's completely written in Swift excluding third party libraries for interface and available [Pro Places Source code](https://github.com/famer/Places).
 

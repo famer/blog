@@ -25,7 +25,7 @@ But looks like Apple going to go far with Apple Watch citing:
 
 It’s called `Taptic Engine`. That’s going to be break-through in that field. It’s tied to your wrist, so you wouldn’t able to miss when Watch taps on it. It’s going to perform different response depending on action or interactions, so wearer able to distinguish between them because of close contact with users wrist. Finally gap between functional but woody screens and user tactical experience going to be covered by this bridge. Hoping they’ll do it right as usual.
 
-![health sensors]({{ site.baseurl }}/assets/Apple/health-activity.png)
+![health sensors]({{ site.baseurl }}/assets/Apple/health-activity.png){: width="640px"}
 
 _Apple Watch health sensors_
 
