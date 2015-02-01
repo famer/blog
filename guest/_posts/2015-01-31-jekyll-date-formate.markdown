@@ -1,7 +1,7 @@
 ---
 title: "Jekyll date format"
 guest: true
-link: http:///
+link: http://alanwsmith.com/jekyll-liquid-date-formatting-examples
 layout: post
 ---
 
