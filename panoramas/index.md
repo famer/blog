@@ -2,7 +2,7 @@
 title: Panoramas
 description: List of panaramas taken throught the life
 layout: default
-quanity: 4#34
+quanity: 33
 permalink: /panoramas/
 ---
 I don't make artistic photography usually, it's journalistic more, related to some event(even only connected to me) place or precious peace of nature. It's good when it's comes out beautiful, but I don't put vase in front of the rock for sake of art.
