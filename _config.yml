@@ -40,4 +40,5 @@ defaults:
       category: "ru"
 gems:
   - jemoji
-
+  
+paginate: 5
