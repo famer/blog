@@ -119,7 +119,7 @@ In other words we are checking what's qualities, habits and character lines are 
 
 Good luck guys.
 
-P.S. There are two Futurama episodes related: Someone(I guess professor or Fry) spoiled something and produced population of robots which doesn't consider him as creator. Another one is aboy Bender stuck in space and has population grown on his body trying to be a God for them.
+P.S. There are two Futurama episodes related: Someone(I guess professor or Fry) spoiled something and produced population of robots which doesn't consider him as creator. Another one is about Bender stuck in space and has population grown on his body trying to be a God for them.
 
 *Credits: slides by `doc. Ing. Petr Fišer, Ph.D.` and MIE-PAA course [@CTU](http://www.cvut.cz)*
 
