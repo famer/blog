@@ -124,12 +124,12 @@ P.S. There are two Futurama episodes related: Someone(I guess professor or Fry) 
 *Credits: slides by `doc. Ing. Petr Fišer, Ph.D.` and MIE-PAA course [@CTU](http://www.cvut.cz)*
 
 
-[20150129065449]: ({{site.baseurl}}assets/Programming/GA/motivation-genetic-algorithms.png)
+[20150129065449]: {{site.baseurl}}assets/Programming/GA/motivation-genetic-algorithms.png
 
-[20150129063208]: ({{site.baseurl}}/assets/Programming/GA/analogy-genetic-algorithms.png)
-[20150129062736]: ({{site.baseurl}}/assets/Programming/GA/crossover-genetic-algorithms.png)
-[20150127153718]: ({{site.baseurl}}/assets/Programming/GA/mutation-genetic-algorithms.png)
-[20150127154629]: ({{site.baseurl}}/assets/Programming/GA/evolution-genetic-algorithms.png)
-[20150127154453]: ({{site.baseurl}}/assets/Programming/GA/parameters-genetic-algorithms.png)
-[20150127154552]: ({{site.baseurl}}/assets/Programming/GA/schemata-genetic-algorithms.png)
-[20150127155014]: ({{site.baseurl}}/assets/Programming/GA/survival-genetic-algorithms.png)
+[20150129063208]: {{site.baseurl}}/assets/Programming/GA/analogy-genetic-algorithms.png
+[20150129062736]: {{site.baseurl}}/assets/Programming/GA/crossover-genetic-algorithms.png
+[20150127153718]: {{site.baseurl}}/assets/Programming/GA/mutation-genetic-algorithms.png
+[20150127154629]: {{site.baseurl}}/assets/Programming/GA/evolution-genetic-algorithms.png
+[20150127154453]: {{site.baseurl}}/assets/Programming/GA/parameters-genetic-algorithms.png
+[20150127154552]: {{site.baseurl}}/assets/Programming/GA/schemata-genetic-algorithms.png
+[20150127155014]: {{site.baseurl}}/assets/Programming/GA/survival-genetic-algorithms.png
