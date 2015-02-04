@@ -41,6 +41,8 @@ echo "Resizing photos to $width"
 #sips -Z "$width" `ls $smalldirname/*`
 mogrify -filter lanczos2 -resize "$width>" `ls $smalldirname/*` 
 
+sleep 5
+
 echo "Moving files from working dir to original"
 mv -f `ls $1$base/*` "$1"
 
