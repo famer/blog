@@ -34,6 +34,7 @@ Pro Places Source code is prohibited for following actions.
 3. You are not able to copy full project source and build commercial products on top of it by extension of original project or in any other possible way
 4. You are not able to make forks of this project
 
+
 Pro Places Source code is allowed for following means.
 
 1. You are able to use copy full project source and use it for personal purposes
