@@ -2,7 +2,7 @@
 title: "Raspberry Pi 2 unveiled"
 guest: true
 link: http://www.bbc.com/news/technology-31088908
-tags: News, British, Technology, BBC
+tags: News British Technology BBC
 layout: post
 ---
 
