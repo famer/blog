@@ -124,7 +124,7 @@ P.S. There are two Futurama episodes related: Someone(I guess professor or Fry) 
 *Credits: slides by `doc. Ing. Petr Fišer, Ph.D.` and MIE-PAA course [@CTU](http://www.cvut.cz)*
 
 
-[20150129065449]: {{site.baseurl}}assets/Programming/GA/motivation-genetic-algorithms.png
+[20150129065449]: {{site.baseurl}}/assets/Programming/GA/motivation-genetic-algorithms.png
 
 [20150129063208]: {{site.baseurl}}/assets/Programming/GA/analogy-genetic-algorithms.png
 [20150129062736]: {{site.baseurl}}/assets/Programming/GA/crossover-genetic-algorithms.png
