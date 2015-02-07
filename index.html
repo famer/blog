@@ -21,6 +21,7 @@ layout: default
         </h2>
 	  {{ post.content }}
     {% include taglist.html %}
+	{% include share.html url=post.url title=post.title %}
       </li>
     {% endfor %}
   </ul>
