@@ -15,3 +15,5 @@ out of SPDY and it's standard `Google` decided to cancel support for SPDY and sa
 Great job. I personally know some startups that decided to use SPDY as one of the features of their products and were astonished by results of tests.
 So happy companies like Google have free resources and able to use them for development of something big valuable and for free(?).
 
+P.S. I love HTTP.
+
