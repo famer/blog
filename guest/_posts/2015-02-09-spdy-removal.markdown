@@ -8,6 +8,7 @@ layout: post
 SPDY was developed as alternative to HTTP/1.1 protocol as faster mean of network communications by `Google`. It's [supported by majority of contemporary browsers](http://caniuse.com/#feat=spdy) 
 
 Since HTTP/2 developed and took
+
 > Some key features such as multiplexing, header compression, prioritization and protocol negotiation 
 
 out of SPDY and it going to be standard `Google` decided to cancel support for SPDY and say goodbye to it.
