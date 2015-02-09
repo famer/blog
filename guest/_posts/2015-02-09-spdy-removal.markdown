@@ -19,6 +19,7 @@ References:
 
 * [HTTP/2 key features PDF (1.2Mb)](http://daniel.haxx.se/http2/http2-v1.8.pdf)
 * [HTTP/2 spec](http://http2.github.io/http2-spec/index.html)
+* [SPDY whitepaper](http://dev.chromium.org/spdy/spdy-whitepaper)
 
 P.S. I love HTTP.
 
