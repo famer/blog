@@ -67,8 +67,8 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
-li {
-    > ul:not(.post-list),
+ul:not(.post-list) > li {
+    > ul,
     > ol {
          margin-bottom: 0;
     }
