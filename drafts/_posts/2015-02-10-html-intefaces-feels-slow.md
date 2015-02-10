@@ -9,8 +9,8 @@ There is no secret that native applications provide better user experience that 
 It literaly *feels* slower. Just "feels" is enough. It's not best it could be and that's it. Users don't like them.
 
 `Flipboard` released js library [react-canvas][react-canvas] that build interfaces in `<canvas>` tag and here is a quote from their read "Description":
-	
-	> Having a long history of building interfaces geared toward mobile devices, we found that the reason mobile web apps feel slow when compared to native apps is the DOM.
+
+> Having a long history of building interfaces geared toward mobile devices, we found that the reason mobile web apps feel slow when compared to native apps is the DOM.
 	
 Next gen web should be build of native apps. Google made steps in that direction with [Google Native Client][nacl] which unfortunately isn't met by audience. 
 Or other more common for people way, computers will get that fast that users won't feel difference, but it has to be really next level of computations. I mean, people have Core i7 and etc, but it's not that convinient for real good web. Browser one of the most resource comsuming tools in any system.
