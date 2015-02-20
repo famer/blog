@@ -2,9 +2,7 @@
 permalink: :title.html #none #/:categories/:title.html
 title: DevBlog
 #email: dj.famer@gmail.com
-description: >
-"I am Timur Tatarshaov: web and mobile developer,
- writer and aestetic things lover." #> # this means to ignore newlines until "baseurl:"
+description: "I am Timur Tatarshaov: web and mobile developer, writer and aestetic things lover." #> # this means to ignore newlines until "baseurl:"
 
   #Блог обо всем на свете.
 
