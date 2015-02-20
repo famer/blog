@@ -1,5 +1,6 @@
 ---
-title: "Slow computer? Embrace it!" #"Why people will allways be unsatisfied with computers"
+title: "Slow computer? Embrace it!" 
+faketitle: "Why people will allways be unsatisfied with computers"
 categories: cat
 tags: ["future", "it", thoughts]
 published: true
