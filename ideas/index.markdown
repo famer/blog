@@ -12,6 +12,6 @@ I have some ideas from time to time that I don't have resources, knowledge or ti
 
 There is need to make horizontal photos and capture horizontal videos while holding phone vertically. As example for that is to wear phone in shirt pocket and trigger capture from Smart Watches (Apple Watch) or to war against mimic [Vertical Video Syndrome!](https://www.youtube.com/watch?v=Bt9zSfinwFA). Solution depicted below:
 
-![twisted sensor]({{ site.baseurl }}/assets/Ideas/twiseted-sensor.png)
+![twisted sensor]({{ site.baseurl }}/assets/Ideas/twisted-sensor.png)
 
 
