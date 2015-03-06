@@ -5,6 +5,5 @@ categories: Promoting
 tags: screencast
 ---
 :+1: 
-:|1|:
 
 {% gist dergachev/4627207 %}
