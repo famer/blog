@@ -2,7 +2,7 @@
 title: "Branding: European government style"
 ---
 
-![eu logo reference]({{ site.baseurl }}/asstes/eulogo.png)
+![eu logo reference]({{ site.baseurl }}/assets/eulogo.png)
 
 It's interesting to look how government institutes make their identity which in business world knows as `branding`.
 
