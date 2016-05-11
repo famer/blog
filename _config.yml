@@ -39,6 +39,7 @@ defaults:
     values:
       category: "ru"
 gems:
+  - jekyll-paginate
   - jemoji
   
 paginate: 5
