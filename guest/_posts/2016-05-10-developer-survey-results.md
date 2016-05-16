@@ -7,3 +7,5 @@ link: http://stackoverflow.com/research/developer-survey-2016
 ---
 
 Results of surveying of developers in 2016, shows many trends happening in the world this year.
+
+![Developer Survey Results]({{ site.baseurl }}/assets/Developer Survey Results.png)
