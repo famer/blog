@@ -1,7 +1,7 @@
 ---
 title: "Developer Survey Results 2016 by Stack Overflow"
-categories: Programming, Social
-tags: ["Developers"]
+categories: Survey
+tags: ["Developers", "Programming", "Social"]
 published: true
 link: http://stackoverflow.com/research/developer-survey-2016
 ---
