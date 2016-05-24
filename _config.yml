@@ -41,5 +41,6 @@ defaults:
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-gist 
   
 paginate: 5
