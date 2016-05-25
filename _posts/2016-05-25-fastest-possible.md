@@ -2,6 +2,8 @@
 title: Fastest possible
 ---
 
+This post has been written 12-th of April 2015, but wasn't published for some reasons.
+
 This post is inspired by recent [Linus Torvalds interview related to Git development](http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds).
 
 But even it's about tech, post is going to be more psychological and related to computers of course.
