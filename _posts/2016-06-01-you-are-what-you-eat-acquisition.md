@@ -13,6 +13,3 @@ And it’s not certain what should be done with such a differences. On one hand 
 
 For instance, Facebook, having bought companies like WhatUp or Instagram, provided them with necessary contacts and resources, still keeping them separately and not to interfere with their way of making things.
 
-But everything has more then one side.
-On the other hand, guidelines of big companies is something that limits their flexibility and pace of maneuvers. So acquisition is a fresh blood for those companies. Otherwise what's the point, right?
-
