@@ -2,7 +2,7 @@
 title: "NASA Open Source Software"
 guest: true
 link: https://code.nasa.gov/
-tags: "Open Source"
+tags: ["Open Source"]
 layout: post
 ---
 
