@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 menuIndex: 2
 published: true
+hideFromNav: true
 ---
 
 I am Timur Tatarshaov: web developer, mobile developer, writer and aestetic.
