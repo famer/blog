@@ -1,6 +1,6 @@
 ---
 title: .NET core released for all the platforms
-url: https://www.microsoft.com/net/core
+link: https://www.microsoft.com/net/core
 tags: ["Open Source"]
 ---
 
