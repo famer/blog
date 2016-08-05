@@ -1,5 +1,6 @@
 ---
 title: REST API Documentation
+date: 2016-08-04
 ---
 REST docs vs swagger, editor, ui, codepen generation schemes
 
