@@ -1,5 +1,6 @@
 ---
 title: Tying up microservices. Options overview.
+date: 2016-08-03
 ---
 
 Once system is decoupled to separate services question of interconnection of the rose up. Because as architect you have to make decision how clients and services will communicate with each other.
