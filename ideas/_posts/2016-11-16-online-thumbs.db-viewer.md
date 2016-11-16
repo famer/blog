@@ -1,5 +1,5 @@
 ---
-title: "Ideas: Online Thumbs.db viewver"
+title: "Ideas: Online Thumbs.db viewer"
 layout: default
 ---
 
