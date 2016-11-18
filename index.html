@@ -15,10 +15,11 @@ layout: default
         <h2>
 		
 		
-			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      {% if post.categories contains "guest" %}
-      <a href="{{ post.link }}">→</a>
-      {% endif %}
+		{% if post.categories contains "guest" %}
+		<a class="post-link" href="{{ post.link }}">{{ post.title }} →</a>
+		{% else %}
+		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		{% endif %}
         </h2>
 	  {{ post.content }}
     {% include taglist.html %}
