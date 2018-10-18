@@ -2,7 +2,7 @@
 layout: post
 title:  Programming in real world production
 categories: Programming
-tags: Future Development
+tags: ["Future Development", "Video", "FT"]
 ---
 Here is a good example of how programming should influence our life in the future [https://www.facebook.com/video.php?v=10152975709360750](https://www.facebook.com/video.php?v=10152975709360750)
 

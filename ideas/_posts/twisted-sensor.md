@@ -1,7 +1,6 @@
 ---
 title: Ideas: Twisted sensor for cameraphone 
 layout: default
-#permalink: /ideas/
 ---
 
 ## Twisted sensor for cameraphone 
