@@ -12,7 +12,7 @@ I have some ideas from time to time that I don't have resources, knowledge or ti
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% assign posts = site.posts | where:"category","ru" %}
+    {% assign posts = site.posts | where:"category","ideas" %}
     {% for post in posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
