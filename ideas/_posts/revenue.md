@@ -1,6 +1,6 @@
 ---
 title: Ideas: Revenue sharing for portals
-layout: default
+#layout: default
 #permalink: /ideas/
 ---
 
