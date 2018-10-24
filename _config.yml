@@ -17,30 +17,31 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "" 
+      path: ""
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "" 
+      path: ""
       type: "pages"
     values:
       hideFromNav: false
   -
     scope:
-      path: "tags" 
+      path: "tags"
     values:
       #permalink: none
       layout: "tag"
   -
     scope:
-      path: "ru" 
+      path: "ru"
     values:
       category: "ru"
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
   - jemoji
-  - jekyll-gist 
-  
+  - jekyll-gist
+
 paginate: 5
