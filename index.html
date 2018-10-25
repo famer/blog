@@ -13,10 +13,10 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
 
         <h2>
-		
-		
+
+
 		{% if post.categories contains "guest" %}
-		<a class="post-link" href="{{ post.link }}">{{ post.title }} →</a>
+		<a class="post-link" target="_blank" href="{{ post.link }}">{{ post.title }} →</a>
 		{% else %}
 		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		{% endif %}
@@ -37,17 +37,16 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
 	<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> <br />
-	
+
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
-  
+
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
 </div>
-
