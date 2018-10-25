@@ -11,6 +11,6 @@ And here is a Mosarikova train station entrance sign in Prague which is older th
 
 ![Masarikova train station sign]
 
-[ios7 downloads bar icon]: {{ site.baseurl }}/assets/Apple/ios7-download-bar-icon.png
+[ios7 downloads bar icon]: {{ site.baseurl }}/assets/stolen old/ios7-download-bar-icon.png
 
 [Masarikova train station sign]: {{ site.baseurl }}/assets/stolen old/masarikova-train-station.jpg
