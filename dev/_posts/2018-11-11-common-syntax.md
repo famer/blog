@@ -118,7 +118,8 @@ Arrays or a structures alike? Just return couple, why not? I know it came from m
 May be some others.
 
 
-Ok, thank you for you attention. You them.
+Ok, thank you for you attention. Use it.
+
 
 [Elvis operator]: https://en.wikipedia.org/wiki/Elvis_operator
  
